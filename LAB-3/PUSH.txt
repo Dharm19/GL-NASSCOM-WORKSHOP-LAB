@@ -1,0 +1,11 @@
+PUSH images to your registry (docker hub) repository
+
+Step 1 
+
+docker login
+docker push <image name>
+
+Example dharm19/productservice:v1
+
+Try pushing the images created in LAB-1
+

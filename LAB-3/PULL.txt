@@ -1,0 +1,15 @@
+Pull images from docker repository
+
+Step 1 
+
+docker pull <image name>
+
+You can try pulling any public images from docker hub or from your own registry
+
+docker hub nginx 
+
+(this will fetch the latest docker image of ngnix
+
+Try yourself 
+1. Try pulling you own images on a different machine and run it. 
+2. Run the image pull using docker run command
